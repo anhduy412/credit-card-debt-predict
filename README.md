@@ -1,6 +1,5 @@
-Dataset: There are 25 variables:
-
-ID: ID of each client
+# There are 25 variables:
+<p>ID: ID of each client</p>
 LIMIT_BAL: Amount of given credit in NT dollars (includes individual and family/supplementary credit
 SEX: Gender (1=male, 2=female)
 EDUCATION: (1=graduate school, 2=university, 3=high school, 4=others, 5=unknown, 6=unknown)
@@ -24,4 +23,4 @@ PAY_AMT3: Amount of previous payment in July, 2005 (NT dollar)
 PAY_AMT4: Amount of previous payment in June, 2005 (NT dollar)
 PAY_AMT5: Amount of previous payment in May, 2005 (NT dollar)
 PAY_AMT6: Amount of previous payment in April, 2005 (NT dollar)
-default.payment.next.month: Default payment (1=yes, 0=no)
+default.payment.next.month: Default payment (1=yes, 0=no)</p>
