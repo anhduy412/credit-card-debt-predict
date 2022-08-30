@@ -1,4 +1,4 @@
-# There are 25 variables:
+# The dataset credit_card_default.csv has 25 variables:
 <p>ID: ID of each client</p>
 <p>LIMIT_BAL: Amount of given credit in NT dollars (includes individual and family/supplementary credit</p>
 <p>SEX: Gender (1=male, 2=female)</p>
