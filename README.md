@@ -1,7 +1,7 @@
 # The dataset `credit_card_default.csv` has 25 variables:
 <p><strong>ID:</strong> ID of each client</p>
 <p><strong>LIMIT_BAL</strong>: Amount of given credit in NT dollars (includes individual and family/supplementary credit</p>
-<p><strong>SEX</strong>: Gender (1=male, 2=female)</p>
+<p><strong>GENDER</strong>: Gender (1=male, 2=female)</p>
 <p><strong>EDUCATION</strong>: (1=graduate school, 2=university, 3=high school, 4=others, 5=unknown, 6=unknown)</p>
 <p><strong>MARRIAGE</strong>: Marital status (1=married, 2=single, 3=others)</p>
 <p><strong>AGE</strong>: Age in years</p>
@@ -23,4 +23,4 @@
 <p><strong>PAY_AMT4</strong>: Amount of previous payment in June, 2005 (NT dollar)</p>
 <p><strong>PAY_AMT5</strong>: Amount of previous payment in May, 2005 (NT dollar)</p>
 <p><strong>PAY_AMT6</strong>: Amount of previous payment in April, 2005 (NT dollar)</p>
-<p><strong>default.payment.next.month</strong>: Default payment (1=yes, 0=no)</p>
+<p><strong>default_payment_next_month</strong>: Default payment (1=yes, 0=no)</p>
